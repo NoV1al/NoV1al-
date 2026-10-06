@@ -1,35 +1,54 @@
-╭────────────────────────────────────────────╮
-│                                            │
-│             HI, I'M VINCE 👋               │
-│                                            │
-│       IT GRADUATE • DEVELOPER              │
-│       ENGLISH INSTRUCTOR                   │
-│                                            │
-╰────────────────────────────────────────────╯
+# Hi, I'm Vince 👋
 
-ABOUT ME
-────────────────────────────────────────────
+### IT Graduate | English Instructor
 
-I'm an IT graduate interested in building
-useful software and learning new technologies.
+I'm an IT graduate interested in web development, software projects, and technology.
 
-TECHNOLOGIES
-────────────────────────────────────────────
+I also have several years of experience teaching English online.
 
-HTML • CSS • JavaScript • Python
-Django • PostgreSQL • Git
+---
 
-FEATURED PROJECT
-────────────────────────────────────────────
+## 🛠️ Skills
 
-LOANMOTO
-Loan Management & Risk Assessment System
+- HTML
+- CSS
+- JavaScript
+- Python
+- Django
+- PostgreSQL
+- Git & GitHub
 
-EXPERIENCE
-────────────────────────────────────────────
+---
 
-English Instructor
-4+ years of online English teaching
+## 📌 Featured Project
 
-CONTACT
-────────────────────────────────────────────
+### LOANMOTO
+
+An intelligent loan management, payment monitoring, and risk assessment system with automated SMS notifications.
+
+**Technologies:**
+- Django
+- PostgreSQL
+- JavaScript
+- HTML
+- CSS
+- Bootstrap
+
+---
+
+## 👨‍🏫 Experience
+
+### English Instructor
+
+- Online English teaching
+- One-on-one classes
+- Beginner to advanced students
+- Speaking and conversation practice
+- Grammar and pronunciation
+
+---
+
+## 📫 Contact
+
+- GitHub: @YOUR_USERNAME
+- Email: YOUR_EMAIL
